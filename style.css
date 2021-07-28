@@ -110,11 +110,11 @@ section{
 }
 .form-select{
     margin-bottom: 20px;
-    padding: 15px;
+    padding: 13px;
 }
 .danger-search{
     background-color: #ff214f;
-    padding: 15px;
+    padding: 10px;
     color: white;
 }
 /*feature start*/
