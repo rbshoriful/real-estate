@@ -11,7 +11,6 @@ header{
 }
 .header{
     position: relative;
-    /* border-bottom: 1px solid rgba(83, 72, 72, 0.473); */
     z-index: 1;
     padding: 10px 0px;
 }
@@ -35,9 +34,6 @@ header{
 .header-top h2{
     margin-top: 7px;
     text-transform: uppercase;
-}
-nav{
-    position: fixed;
 }
 nav ul{
     text-align: right;
